@@ -4,9 +4,10 @@ CareTrack is an inpatient hospital management web application engineered with Re
 
 ---
 
-## 🚀 Live Demo & Local Access
+## 🚀 Live Demo & Deployment
 
-- **Local Preview Server:** [http://localhost:4173/](http://localhost:4173/)
+- **Live Production URL:** [https://caretrack-hospital-management-theta.vercel.app](https://caretrack-hospital-management-theta.vercel.app)
+- **GitHub Repository:** [https://github.com/Hetvibhamre/caretrack-hospital-management](https://github.com/Hetvibhamre/caretrack-hospital-management)
 - **Local Dev Server:** `npm run dev` (defaults to [http://localhost:5173/](http://localhost:5173/))
 
 ### Running Locally
